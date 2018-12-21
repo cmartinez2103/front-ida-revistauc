@@ -1,0 +1,80 @@
+<!--#include virtual="_header.shtml" -->
+<main>
+   <!--#include virtual="_breadcrumb.shtml" -->
+   <section class="horizon container--big">
+      <img src="http://unsplash.it/1280/360/" alt="" class="cover-img hide@tablet">
+      <img src="http://unsplash.it/640/360/" alt="" class="cover-img showb@tablet">
+      <div class="header-portada header-portada__category">
+         <div class="container">
+            <div class="header-portada__body">
+
+               <h1 class="font-big font-italic">Temas</h1>
+
+            </div>
+         </div>
+      </div>
+   </section>
+
+   <section class="horizon--inner">
+		<div class="container">
+         <div class="row">
+            <!--destacados--->
+            <div class="gr-6 gr-12@phablet">
+					<article class="box box--overlay">
+						<figure class="box__figure">
+                     <a href="template-portada-tag.shtml"><img src="http://unsplash.it/464/261/" class="cover-img" alt="title" /></a>
+                     <div class="box__meta">
+                       <span class="box__meta--item"><a href="">Política</a></span>
+                     </div>
+						</figure>
+					</article>
+				</div>
+            <div class="gr-6 gr-12@phablet">
+					<article class="box box--overlay">
+						<figure class="box__figure">
+							<a href="template-portada-tag.shtml"><img src="http://unsplash.it/464/261/" class="cover-img" alt="title"  /></a>
+                     <div class="box__meta">
+                       <span class="box__meta--item"><a href="">Historia</a></span>
+                     </div>
+						</figure>
+					</article>
+				</div>
+            <div class="gr-6 gr-12@phablet">
+					<article class="box box--overlay">
+						<figure class="box__figure">
+							<a href="template-portada-tag.shtml"><img src="http://unsplash.it/464/261/" class="cover-img" alt="title"  /></a>
+                     <div class="box__meta">
+                       <span class="box__meta--item"><a href="">Salud</a></span>
+                     </div>
+						</figure>
+					</article>
+				</div>
+            <div class="gr-6 gr-12@phablet">
+					<article class="box box--overlay">
+						<figure class="box__figure">
+							<a href="template-portada-tag.shtml"><img src="http://unsplash.it/464/261/" class="cover-img" alt="title"  /></a>
+                     <div class="box__meta">
+                       <span class="box__meta--item"><a href="">Ciencia y tecnologóia</a></span>
+                     </div>
+						</figure>
+					</article>
+				</div>
+            <div class="gr-6 gr-12@phablet">
+					<article class="box box--overlay">
+						<figure class="box__figure">
+							<a href="template-portada-tag.shtml"><img src="http://unsplash.it/464/261/" class="cover-img" alt="title"  /></a>
+                     <div class="box__meta">
+                       <span class="box__meta--item"><a href="">Educación</a></span>
+                     </div>
+						</figure>
+					</article>
+				</div>
+         </div>
+
+         <!--#include virtual="_paginator.shtml" -->
+
+      </div>
+   </section>
+
+</main>
+<!--#include virtual="_footer.shtml" -->

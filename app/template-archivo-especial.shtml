@@ -1,0 +1,87 @@
+<!--#include virtual="_header.shtml" -->
+<main>
+   <!--#include virtual="_breadcrumb.shtml" -->
+   <section class="horizon container--big">
+      <img src="http://unsplash.it/1280/360/" alt="" class="cover-img hide@tablet">
+      <img src="http://unsplash.it/640/360/" alt="" class="cover-img showb@tablet">
+      <div class="header-portada header-portada__category">
+         <div class="container">
+            <div class="header-portada__body">
+
+               <h1 class="font-big font-italic">Especiales</h1>
+
+            </div>
+         </div>
+      </div>
+   </section>
+
+   <section class="horizon--inner">
+		<div class="container">
+         <div class="row">
+            <!--destacados--->
+            <div class="gr-12 gr-12@tablet">
+					<article class="box box--post box--horizontal">
+						<figure class="box__figure">
+							<a href="template-portada-especial.shtml"><img src="http://unsplash.it/566/318/" class="cover-img" alt="title"  /></a>
+						</figure>
+						<div class="box__body">
+							<h4 class="box__title"><a href="template-portada-especial.shtml">Especial 151</a></h4>
+                     <span class="box__data">Revista Nº 151</span>
+							<div class="box__excerpt">
+								<p>Bajada del espcecial Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
+							</div>
+							<a href="template-portada-especial.shtml" class="button button--main">Ver artículo</a>
+						</div>
+					</article>
+				</div>
+            <div class="gr-12 gr-12@tablet">
+					<article class="box box--post box--horizontal">
+						<figure class="box__figure">
+							<a href="template-portada-especial.shtml"><img src="http://unsplash.it/566/318/" class="cover-img" alt="title"  /></a>
+						</figure>
+						<div class="box__body">
+							<h4 class="box__title"><a href="template-portada-especial.shtml">Especial 147</a></h4>
+							<span class="box__data">Revista Nº 147</span>
+							<div class="box__excerpt">
+								<p>Bajada del espcecial Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
+							</div>
+							<a href="template-portada-especial.shtml" class="button button--main">Ver artículo</a>
+						</div>
+					</article>
+				</div>
+            <div class="gr-12 gr-12@tablet">
+					<article class="box box--post box--horizontal">
+						<figure class="box__figure">
+							<a href="template-portada-especial.shtml"><img src="http://unsplash.it/566/318/" class="cover-img" alt="title"  /></a>
+						</figure>
+						<div class="box__body">
+							<h4 class="box__title"><a href="template-portada-especial.shtml">Especial 144</a></h4>
+							<span class="box__data">Revista Nº 144</span>
+							<div class="box__excerpt">
+								<p>Bajada del espcecial Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
+							</div>
+							<a href="template-portada-especial.shtml" class="button button--main">Ver artículo</a>
+						</div>
+					</article>
+				</div>
+            <div class="gr-12 gr-12@tablet">
+					<article class="box box--post box--horizontal">
+						<figure class="box__figure">
+							<a href="template-portada-especial.shtml"><img src="http://unsplash.it/566/318/" class="cover-img" alt="title"  /></a>
+						</figure>
+						<div class="box__body">
+							<h4 class="box__title"><a href="template-portada-especial.shtml">Especial 140</a></h4>
+							<span class="box__data">Revista Nº 140</span>
+							<div class="box__excerpt">
+								<p>Bajada del espcecial Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
+							</div>
+							<a href="template-portada-especial.shtml" class="button button--main">Ver artículo</a>
+						</div>
+					</article>
+				</div>
+         </div>
+      </div>
+   </section>
+
+</main>
+<!--#include virtual="_footer.shtml" -->

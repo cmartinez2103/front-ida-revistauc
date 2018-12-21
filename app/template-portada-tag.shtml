@@ -1,0 +1,115 @@
+<!--#include virtual="_header.shtml" -->
+<main>
+   <!--#include virtual="_breadcrumb.shtml" -->
+   <section class="horizon container--big">
+      <img src="http://unsplash.it/1280/360/" alt="" class="cover-img hide@tablet">
+      <img src="http://unsplash.it/640/360/" alt="" class="cover-img showb@tablet">
+      <div class="header-portada header-portada__category">
+         <div class="container">
+            <div class="header-portada__body">
+
+               <h1 class="font-big font-italic">Arte</h1>
+
+            </div>
+         </div>
+      </div>
+   </section>
+
+   <section class="horizon--inner">
+		<div class="container">
+         <div class="row">
+            <!--destacados--->
+            <div class="gr-12 gr-12@tablet">
+					<article class="box box--post box--horizontal">
+						<figure class="box__figure">
+							<a href="single.shtml"><img src="http://unsplash.it/566/318/" class="cover-img" alt="title"  /></a>
+						</figure>
+						<div class="box__body">
+							<h4 class="box__title"><a href="">Las religiones se encuentran en la UC por 50 años del documento Nostra Aetate (Nuestro tiempo).</a></h4>
+							<span class="box__data">Por Miguel Laborde Duronea</span>
+                     <span class="box__data">Revista Nº 150</span>
+							<div class="box__excerpt">
+								<p>El premio Pritzker que Alejandro Aravena recibió en la sede de las Naciones Unidas va más allá de la Arquitectura.
+									Este celebra una estrategia que explora el arte de actuar con recursos escasos. Arte que la oficina que fundó y ahora dirige</p>
+							</div>
+							<a href="" class="button button--main">Ver artículo</a>
+						</div>
+					</article>
+				</div>
+            <div class="gr-12 gr-12@tablet">
+					<article class="box box--post box--horizontal">
+						<figure class="box__figure">
+							<a href="single.shtml"><img src="http://unsplash.it/566/318/" class="cover-img" alt="title"  /></a>
+						</figure>
+						<div class="box__body">
+							<h4 class="box__title"><a href="">Un mundo elemental</a></h4>
+							<span class="box__data">Por Miguel Laborde Duronea</span>
+                     <span class="box__data">Revista Nº 150</span>
+							<div class="box__excerpt">
+								<p>El premio Pritzker que Alejandro Aravena recibió en la sede de las Naciones Unidas va más allá de la Arquitectura.
+									Este celebra una estrategia que explora el arte de actuar con recursos escasos. Arte que la oficina que fundó y ahora dirige</p>
+							</div>
+							<a href="" class="button button--main">Ver artículo</a>
+						</div>
+					</article>
+				</div>
+            <div class="gr-12 gr-12@tablet">
+					<article class="box box--post box--horizontal">
+						<figure class="box__figure">
+							<a href="single.shtml"><img src="http://unsplash.it/566/318/" class="cover-img" alt="title"  /></a>
+						</figure>
+						<div class="box__body">
+							<h4 class="box__title"><a href="">Un mundo elemental</a></h4>
+							<span class="box__data">Por Miguel Laborde Duronea</span>
+                     <span class="box__data">Revista Nº 150</span>
+							<div class="box__excerpt">
+								<p>El premio Pritzker que Alejandro Aravena recibió en la sede de las Naciones Unidas va más allá de la Arquitectura.
+									Este celebra una estrategia que explora el arte de actuar con recursos escasos. Arte que la oficina que fundó y ahora dirige</p>
+							</div>
+							<a href="" class="button button--main">Ver artículo</a>
+						</div>
+					</article>
+				</div>
+            <div class="gr-12 gr-12@tablet">
+					<article class="box box--post box--horizontal">
+						<figure class="box__figure">
+							<a href="single.shtml"><img src="http://unsplash.it/566/318/" class="cover-img" alt="title"  /></a>
+						</figure>
+						<div class="box__body">
+							<h4 class="box__title"><a href="">Un mundo elemental</a></h4>
+							<span class="box__data">Por Miguel Laborde Duronea</span>
+                     <span class="box__data">Revista Nº 150</span>
+							<div class="box__excerpt">
+								<p>El premio Pritzker que Alejandro Aravena recibió en la sede de las Naciones Unidas va más allá de la Arquitectura.
+									Este celebra una estrategia que explora el arte de actuar con recursos escasos. Arte que la oficina que fundó y ahora dirige</p>
+							</div>
+							<a href="" class="button button--main">Ver artículo</a>
+						</div>
+					</article>
+				</div>
+            <div class="gr-12 gr-12@tablet">
+					<article class="box box--post box--horizontal">
+						<figure class="box__figure">
+							<a href="single.shtml"><img src="http://unsplash.it/566/318/" class="cover-img" alt="title"  /></a>
+						</figure>
+						<div class="box__body">
+							<h4 class="box__title"><a href="">Un mundo elemental</a></h4>
+							<span class="box__data">Por Miguel Laborde Duronea</span>
+                     <span class="box__data">Revista Nº 150</span>
+							<div class="box__excerpt">
+								<p>El premio Pritzker que Alejandro Aravena recibió en la sede de las Naciones Unidas va más allá de la Arquitectura.
+									Este celebra una estrategia que explora el arte de actuar con recursos escasos. Arte que la oficina que fundó y ahora dirige</p>
+							</div>
+							<a href="" class="button button--main">Ver artículo</a>
+						</div>
+					</article>
+				</div>
+
+         </div>
+
+         <!--#include virtual="_paginator.shtml" -->
+      </div>
+   </section>
+
+</main>
+<!--#include virtual="_footer.shtml" -->

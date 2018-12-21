@@ -1,0 +1,253 @@
+<!--#include virtual="_header.shtml" -->
+<main>
+	<section class="horizon container--big">
+		<img src="http://unsplash.it/1280/700/" alt="" class="cover-img">
+		<div class="header-portada header-portada__home">
+			<div class="container">
+				<div class="header-portada__body">
+					<span class="numero-revista">150</span>
+					<h1>
+						<a href="template-portada-dossier.shtml">
+							<span class="font-regular">Big data: </span>
+							<br>
+							<span class="font-big font-italic">el nuevo poder</span>
+						</a>
+					</h1>
+					<div class="header-portada__excerpt">
+						<p>Bajada del tema big data, tema del dossier, recomendación de 350 caracteres. Morbi quis neque aliquam, rhoncus sapien et, pulvinar dui. Suspendisse at lacus risus. In convallis risus scelerisque risus scelerisque  dignissim ullamcorper. Mauris sed ante dui. Insuada fames acca. In convallis risus scelerisque dignissim ullamcorper. Mauris sed antesd.
+						</p>
+						<a href="template-portada-dossier.shtml" class="button button--main button--more">Ver Dossier</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="horizon--home bg-light">
+		<div class="container--big">
+			<div class="horizon__intro">
+				<h2 class="horizon__title">Destacados</h2>
+			</div>
+			<div class="container">
+				<div class="row">
+					<div class="gr-8 gr-12@tablet push-4">
+						<article class="box box--post">
+							<figure class="box__figure">
+								<a href="single.shtml"><img src="http://unsplash.it/347/200/" class="cover-img" alt="title" /></a>
+								<div class="box__meta">
+									<span class="box__meta--item color-meta-verde"><a href="template-portada-categorias.shtml">Trastienda</a></span>
+								</div>
+							</figure>
+							<div class="box__body">
+								<h4 class="box__title"><a href="">DESTACADO, Las religiones se encuentran en la UC por 50 años del documento Nostra Aetate (Nuestro tiempo).</a></h4>
+								<span class="box__data">Por Miguel Laborde Duronea</span>
+								<!--no lleva excerpt--->
+								<!--no lleva excerpt--->
+								<a href="single.shtml" class="button button--main">Ver artículo</a>
+							</div>
+						</article>
+					</div>
+
+					<div class="gr-4 gr-6@tablet gr-12@phablet pull-8">
+						<article class="box box--post">
+							<figure class="box__figure">
+								<a href="single.shtml"><img src="http://unsplash.it/347/243/" class="cover-img" alt="title" /></a>
+								<div class="box__meta">
+									<span class="box__meta--item color-meta-rojo"><a href="template-portada-dossier.shtml">Dossier</a></span>
+								</div>
+							</figure>
+							<div class="box__body">
+								<h4 class="box__title"><a href="single-dossier.shtml">El Big Data al servicio de los cuidadanos</a></h4>
+								<span class="box__data">Por Violeta busto vaccia</span>
+								<div class="box__excerpt">
+									<p>Bajada single, solo muestra 235 caracteres. Facilitar el acceso de la población a los servicios del Estado de Chile es una deuda que tiene décadas. En un contexto mundial incesante de infomación instantánea y vertiginosa, la ...</p>
+								</div>
+								<a href="single-dossier.shtml" class="button button--main">Ver artículo</a>
+							</div>
+
+						</article>
+					</div>
+					<div class="gr-4 gr-6@tablet gr-12@phablet">
+						<article class="box box--post">
+							<figure class="box__figure">
+								<a href="single.shtml"><img src="http://unsplash.it/347/243/" class="cover-img" alt="title" /></a>
+								<div class="box__meta">
+									<span class="box__meta--item color-meta-verde"><a href="template-portada-categorias.shtml">Arte fresco</a></span>
+								</div>
+							</figure>
+							<div class="box__body">
+								<h4 class="box__title"><a href="">Conciencia en el comer: Los aliños de una buena mesa lorem ipsum blabla</a></h4>
+								<span class="box__data">Por Miguel Laborde Duronea</span>
+								<div class="box__excerpt">
+									<p>El premio Pritzker que Alejandro Aravena recibió en la sede de las Naciones Unidas va más allá de la Arquitectura.
+										Este celebra una estrategia que explora el arte de actuar con recursos escasos. Arte que la oficina que fundó y ahora dirige</p>
+									<a href="single.shtml" class="button button--main">Ver artículo</a>
+								</div>
+							</div>
+						</article>
+					</div>
+					<div class="gr-4 gr-6@tablet gr-12@phablet">
+						<article class="box box--post">
+							<figure class="box__figure">
+								<a href="single.shtml"><img src="http://unsplash.it/347/243/" class="cover-img" alt="title" /></a>
+								<div class="box__meta">
+									<span class="box__meta--item color-meta-azul"><a href="template-portada-categorias.shtml">Investigación</a></span>
+								</div>
+							</figure>
+							<div class="box__body">
+								<h4 class="box__title"><a href="single.shtml">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</a></h4>
+								<span class="box__data">Por Miguel Laborde Duronea</span>
+								<div class="box__excerpt">
+									<p>El premio Pritzker que Alejandro Aravena recibió en la sede de las Naciones Unidas va más allá de la Arquitectura.
+										Este celebra una estrategia que explora el arte de actuar con recursos escasos. Arte que la oficina que fundó y ahora dirige</p>
+								</div>
+								<a href="single.shtml" class="button button--main">Ver artículo</a>
+							</div>
+						</article>
+					</div>
+					<div class="gr-4 gr-6@tablet gr-12@phablet">
+						<article class="box box--post">
+							<figure class="box__figure">
+								<a href="single.shtml"><img src="http://unsplash.it/347/243/" class="cover-img" alt="title" /></a>
+								<div class="box__meta">
+									<span class="box__meta--item color-meta-amarillo"><a href="template-portada-categorias.shtml">Miramundo</a></span>
+								</div>
+							</figure>
+							<div class="box__body">
+								<h4 class="box__title"><a href="single.shtml">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</a></h4>
+								<span class="box__data">Por Miguel Laborde Duronea</span>
+								<div class="box__excerpt">
+									<p>El premio Pritzker que Alejandro Aravena recibió en la sede de las Naciones Unidas va más allá de la Arquitectura.
+										Este celebra una estrategia que explora el arte de actuar con recursos escasos. Arte que la oficina que fundó y ahora dirige</p>
+								</div>
+								<a href="single.shtml" class="button button--main">Ver artículo</a>
+							</div>
+						</article>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!---Especiales--->
+	<!--#include virtual="_especiales.shtml" -->
+
+	<section class="horizon--home ">
+		<div class="container--big">
+			<div class="horizon__intro">
+				<h2 class="horizon__title">Artículos recientes</h2>
+			</div>
+			<div class="container">
+				<div class="row">
+					<div class="gr-4 gr-6@medium gr-12@tablet prefix-1 prefix-0@large">
+						<article class="box box--simple">
+							<div class="box__body">
+								<div class="box__meta">
+									<span class="box__meta--item color-meta-turquesa"><a href="template-portada-categorias.shtml">Política</a></span>
+								</div>
+								<h4 class="box__title"><a href="single.shtml">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</a></h4>
+								<span class="box__data">Por Miguel Laborde Duronea</span>
+								<span class="box__data">Resvista Nº 137</span>
+								<a href="single.shtml" class="button button--main">Ver artículo</a>
+							</div>
+						</article>
+					</div>
+					<div class="gr-4 gr-6@medium gr-12@tablet prefix-1 prefix-0@large">
+						<article class="box box--simple">
+							<div class="box__body">
+								<div class="box__meta">
+									<span class="box__meta--item color-meta-verde"><a href="template-portada-categorias.shtml">Cultura</a></span>
+								</div>
+								<h4 class="box__title"><a href="single.shtml">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</a></h4>
+								<span class="box__data">Por Miguel Laborde Duronea</span>
+								<span class="box__data">Resvista Nº 137</span>
+								<a href="single.shtml" class="button button--main">Ver artículo</a>
+							</div>
+						</article>
+					</div>
+					<div class="gr-4 gr-6@medium gr-12@tablet prefix-1 prefix-0@large">
+						<article class="box box--simple">
+							<div class="box__body">
+								<div class="box__meta">
+									<span class="box__meta--item color-meta-amarillo"><a href="template-portada-categorias.shtml">Personajes</a></span>
+								</div>
+								<h4 class="box__title"><a href="single.shtml">Consectetur adipisicing elit, sed do eiusmod</a></h4>
+								<span class="box__data">Por Miguel Laborde Duronea</span>
+								<span class="box__data">Resvista Nº 137</span>
+								<a href="single.shtml" class="button button--main">Ver artículo</a>
+							</div>
+						</article>
+					</div>
+					<div class="gr-4 gr-6@medium gr-12@tablet prefix-1 prefix-0@large">
+						<article class="box box--simple">
+							<div class="box__body">
+								<div class="box__meta">
+									<span class="box__meta--item color-meta-rojo"><a href="template-portada-dossier.shtml">Dossier</a></span>
+								</div>
+								<h4 class="box__title"><a href="single.shtml">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</a></h4>
+								<span class="box__data">Por Miguel Laborde Duronea</span>
+								<span class="box__data">Resvista Nº 137</span>
+								<a href="single.shtml" class="button button--main">Ver artículo</a>
+							</div>
+						</article>
+					</div>
+					<div class="gr-4 gr-6@medium gr-12@tablet prefix-1 prefix-0@large">
+						<article class="box box--simple">
+							<div class="box__body">
+								<div class="box__meta">
+									<span class="box__meta--item color-meta-turquesa"><a href="template-portada-categorias.shtml">Política</a></span>
+								</div>
+								<h4 class="box__title"><a href="single.shtml">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</a></h4>
+								<span class="box__data">Por Miguel Laborde Duronea</span>
+								<span class="box__data">Resvista Nº 137</span>
+								<a href="single.shtml" class="button button--main">Ver artículo</a>
+							</div>
+						</article>
+					</div>
+					<div class="gr-4 gr-6@medium gr-12@tablet prefix-1 prefix-0@large">
+						<article class="box box--simple">
+							<div class="box__body">
+								<div class="box__meta">
+									<span class="box__meta--item color-meta-rosa"><a href="template-portada-categorias.shtml">Opinión</a></span>
+								</div>
+								<h4 class="box__title"><a href="single.shtml">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a></h4>
+								<span class="box__data">Por Miguel Laborde Duronea</span>
+								<span class="box__data">Resvista Nº 137</span>
+								<a href="single.shtml" class="button button--main">Ver artículo</a>
+							</div>
+						</article>
+					</div>
+					<div class="gr-4 gr-6@medium gr-12@tablet prefix-1 prefix-0@large">
+						<article class="box box--simple">
+							<div class="box__body">
+								<div class="box__meta">
+									<span class="box__meta--item color-meta-naranjo"><a href="template-portada-categorias.shtml">Internacional</a></span>
+								</div>
+								<h4 class="box__title"><a href="single.shtml">Lorem ipsum dolor sit amet.</a></h4>
+								<span class="box__data">Por Miguel Laborde Duronea</span>
+								<span class="box__data">Resvista Nº 137</span>
+								<a href="single.shtml" class="button button--main">Ver artículo</a>
+							</div>
+						</article>
+					</div>
+					<div class="gr-4 gr-6@medium gr-12@tablet prefix-1 prefix-0@large">
+						<article class="box box--simple">
+							<div class="box__body">
+								<div class="box__meta">
+									<span class="box__meta--item color-meta-turquesa"><a href="template-portada-categorias.shtml">Política</a></span>
+								</div>
+								<h4 class="box__title"><a href="single.shtml">Lorem ipsum dolor adipisicing</a></h4>
+								<span class="box__data">Por Miguel Laborde Duronea</span>
+								<span class="box__data">Resvista Nº 137</span>
+								<a href="single.shtml" class="button button--main">Ver artículo</a>
+							</div>
+						</article>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+</main>
+
+<!--#include virtual="_footer.shtml" -->

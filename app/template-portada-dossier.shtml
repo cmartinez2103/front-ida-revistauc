@@ -1,0 +1,391 @@
+<!--#include virtual="_header.shtml" -->
+<main>
+   <!--#include virtual="_breadcrumb.shtml" -->
+   <section class="horizon container--big">
+      <img src="http://unsplash.it/1280/700/" alt="" class="cover-img">
+      <div class="header-portada header-portada__dossier">
+         <div class="container">
+            <div class="header-portada__data">
+               <div class="data">
+                  <p>Revista Nº 150</p>
+                  <p>Abril, 2018</p>
+                  <p>Fotografía por: Alvaro de la Fuente Farré</p>
+               </div>
+            </div>
+
+            <div class="header-portada__body">
+               <span class="numero-revista">150</span>
+               <h1>
+                  <span class="font-regular">Big data: </span>
+                  <br>
+                  <span class="font-big font-italic">el nuevo poder</span>
+               </h1>
+               <div class="header-portada__excerpt">
+                  <p>Bajada del tema big data, tema del dossier, recomendación de 350 caracteres. Morbi quis neque aliquam, rhoncus sapien et, pulvinar dui. Suspendisse at lacus risus. In convallis risus scelerisque risus scelerisque  dignissim ullamcorper. Mauris sed ante dui. Insuada fames acca. In convallis risus scelerisque dignissim ullamcorper. Mauris sed antesd.</p>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
+
+   <section class="horizon--inner">
+		<div class="container">
+         <div class="row">
+            <!--Articulos del tema "Big data: el nuevo poder"--->
+            <div class="gr-12 gr-12@tablet">
+					<article class="box box--post box--horizontal">
+						<figure class="box__figure">
+							<a href="single.shtml"><img src="http://unsplash.it/566/318/" class="cover-img" alt="title"  /></a>
+                     <div class="box__meta">
+                        <span class="box__meta--item color-meta-rojo"><a href="template-portada-dossier.shtml">Dossier</a></span>
+                     </div>
+						</figure>
+						<div class="box__body">
+							<h4 class="box__title"><a href="single-dossier.shtml">El Big Data al servicio de los cuidadanos</a></h4>
+							<span class="box__data">Por Violeta busto vaccia</span>
+                     <span class="box__data">Revista Nº 150</span>
+							<div class="box__excerpt">
+								<p>Bajada single, solo muestra 235 caracteres. Facilitar el acceso de la población a los servicios del Estado de Chile es una deuda que tiene décadas. En un contexto mundial incesante de infomación instantánea y vertiginosa, la ...</p>
+							</div>
+							<a href="single.shtml" class="button button--main">Ver artículo</a>
+						</div>
+					</article>
+				</div>
+            <div class="gr-12 gr-12@tablet">
+					<article class="box box--post box--horizontal">
+						<figure class="box__figure">
+							<a href="single.shtml"><img src="http://unsplash.it/566/318/" class="cover-img" alt="title"  /></a>
+                     <div class="box__meta">
+                        <span class="box__meta--item color-meta-rojo"><a href="template-portada-dossier.shtml">Dossier</a></span>
+                     </div>
+						</figure>
+						<div class="box__body">
+							<h4 class="box__title"><a href="single-dossier.shtml">Datos personales en contrabando</a></h4>
+							<span class="box__data">Por Miguel Laborde Duronea</span>
+                     <span class="box__data">Revista Nº 150</span>
+							<div class="box__excerpt">
+								<p>Bajada single, solo muestra 235 caracteres. Morbi quis neque aliquam, rhoncus sapien et, pulvinar dui. Suspendisse at lacus risus. In convsalliss risuus scelerisque dignissim ullamcorper. Mauris sed ante dui. Intterdum et malesuasda...</p>
+							</div>
+							<a href="single.shtml" class="button button--main">Ver artículo</a>
+						</div>
+					</article>
+				</div>
+            <div class="gr-12 gr-12@tablet">
+					<article class="box box--post box--horizontal">
+						<figure class="box__figure">
+							<a href="single.shtml"><img src="http://unsplash.it/566/318/" class="cover-img" alt="title"  /></a>
+                     <div class="box__meta">
+                        <span class="box__meta--item color-meta-rojo"><a href="template-portada-dossier.shtml">Dossier</a></span>
+                     </div>
+						</figure>
+						<div class="box__body">
+							<h4 class="box__title"><a href="single-dossier.shtml">¿Sueñan los andorides con pesadillas eléctricas?</a></h4>
+							<span class="box__data">Por Miguel Laborde Duronea</span>
+                     <span class="box__data">Revista Nº 150</span>
+							<div class="box__excerpt">
+								<p>Bajada single, solo muestra 235 caracteres. Morbi quis neque aliquam, rhoncus sapien et, pulvinar dui. Suspendisse at lacus risus. In convsalliss risuus scelerisque dignissim ullamcorper. Mauris sed ante dui. Intterdum et malesuasda...</p>
+							</div>
+							<a href="single.shtml" class="button button--main">Ver artículo</a>
+						</div>
+					</article>
+				</div>
+            <div class="gr-12 gr-12@tablet">
+					<article class="box box--post box--horizontal">
+						<figure class="box__figure">
+							<a href="single.shtml"><img src="http://unsplash.it/566/318/" class="cover-img" alt="title"  /></a>
+                     <div class="box__meta">
+                        <span class="box__meta--item color-meta-rojo"><a href="template-portada-dossier.shtml">Dossier</a></span>
+                     </div>
+						</figure>
+						<div class="box__body">
+							<h4 class="box__title"><a href="single-dossier.shtml">En la vorágine digital</a></h4>
+							<span class="box__data">Por Miguel Laborde Duronea</span>
+                     <span class="box__data">Revista Nº 150</span>
+							<div class="box__excerpt">
+								<p>Bajada single, solo muestra 235 caracteres. Morbi quis neque aliquam, rhoncus sapien et, pulvinar dui. Suspendisse at lacus risus. In convsalliss risuus scelerisque dignissim ullamcorper. Mauris sed ante dui. Intterdum et malesuasda...</p>
+							</div>
+							<a href="single.shtml" class="button button--main">Ver artículo</a>
+						</div>
+					</article>
+				</div>
+            <div class="gr-12 gr-12@tablet">
+					<article class="box box--post box--horizontal">
+						<figure class="box__figure">
+							<a href="single.shtml"><img src="http://unsplash.it/566/318/" class="cover-img" alt="title"  /></a>
+                     <div class="box__meta">
+                        <span class="box__meta--item color-meta-rojo"><a href="template-portada-dossier.shtml">Dossier</a></span>
+                     </div>
+						</figure>
+						<div class="box__body">
+							<h4 class="box__title"><a href="single-dossier.shtml">Democratizar la red</a></h4>
+							<span class="box__data">Por Miguel Laborde Duronea</span>
+                     <span class="box__data">Revista Nº 150</span>
+							<div class="box__excerpt">
+								<p>Bajada single, solo muestra 235 caracteres. Morbi quis neque aliquam, rhoncus sapien et, pulvinar dui. Suspendisse at lacus risus. In convsalliss risuus scelerisque dignissim ullamcorper. Mauris sed ante dui. Intterdum et malesuasda...</p>
+							</div>
+							<a href="single.shtml" class="button button--main">Ver artículo</a>
+						</div>
+					</article>
+				</div>
+            <div class="gr-12 gr-12@tablet">
+					<article class="box box--post box--horizontal">
+						<figure class="box__figure">
+							<a href="single.shtml"><img src="http://unsplash.it/566/318/" class="cover-img" alt="title"  /></a>
+                     <div class="box__meta">
+                        <span class="box__meta--item color-meta-rojo"><a href="template-portada-dossier.shtml">Dossier</a></span>
+                     </div>
+						</figure>
+						<div class="box__body">
+							<h4 class="box__title"><a href="single-dossier.shtml">Mentes poderosas</a></h4>
+							<span class="box__data">Por Miguel Laborde Duronea</span>
+                     <span class="box__data">Revista Nº 150</span>
+							<div class="box__excerpt">
+								<p>Bajada single, solo muestra 235 caracteres. Morbi quis neque aliquam, rhoncus sapien et, pulvinar dui. Suspendisse at lacus risus. In convsalliss risuus scelerisque dignissim ullamcorper. Mauris sed ante dui. Intterdum et malesuasda...</p>
+							</div>
+							<a href="single.shtml" class="button button--main">Ver artículo</a>
+						</div>
+					</article>
+				</div>
+            <div class="gr-12 gr-12@tablet">
+					<article class="box box--post box--horizontal">
+						<figure class="box__figure">
+							<a href="single.shtml"><img src="http://unsplash.it/566/318/" class="cover-img" alt="title"  /></a>
+                     <div class="box__meta">
+                        <span class="box__meta--item color-meta-rojo"><a href="template-portada-dossier.shtml">Dossier</a></span>
+                     </div>
+						</figure>
+						<div class="box__body">
+							<h4 class="box__title"><a href="single-dossier.shtml">Potenciar el talento humano</a></h4>
+							<span class="box__data">Por Miguel Laborde Duronea</span>
+                     <span class="box__data">Revista Nº 150</span>
+							<div class="box__excerpt">
+								<p>Bajada single, solo muestra 235 caracteres. Morbi quis neque aliquam, rhoncus sapien et, pulvinar dui. Suspendisse at lacus risus. In convsalliss risuus scelerisque dignissim ullamcorper. Mauris sed ante dui. Intterdum et malesuasda...</p>
+							</div>
+							<a href="single.shtml" class="button button--main">Ver artículo</a>
+						</div>
+					</article>
+				</div>
+         </div>
+      </div>
+   </section>
+
+   <section class="horizon--inner">
+		<div class="container--big">
+
+         <div class="horizon__intro">
+				<h2 class="horizon__title">El archivo del Dossier</h2>
+			</div>
+         <div class="container">
+            <!--archivo-->
+            <div class="horizon__archivo">
+               <span class="numero-revista">149</span>
+               <h3 class="horizon__subtitle">Escritores: dentro o fuera de lo público</h3>
+               <div class="horizon__bajada">
+                  <p>Bajada del tema dossier, recomendación de 350 caracteres. Morbi quis neque aliquam, rhoncus sapien et, pulvinar dui. Suspendisse at lacus risus. In convallis risus scelerisquet malesua dignissim ullamcorper. Mauris sed ante dui. Interdum et malesuada fames acca. In convallis risus scelerisque dignissim ullamcorper. Mauris sed antesd.</p>
+               </div>
+
+               <div class="row">
+      				<div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+      							<h4 class="box__title"><a href="single.shtml">La tierra baldía</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 149</span>
+      							<a href="single.shtml" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+      				<div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+      							<h4 class="box__title"><a href="single.shtml">Escribir en voz alta</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 149</span>
+      							<a href="single.shtml" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+      				<div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+      							<h4 class="box__title"><a href="">Alejandro Zambra Infantas: "No escribo para salir en ninguna foto"</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 149</span>
+      							<a href="single.shtml" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+      				<div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+      							<h4 class="box__title"><a href="single.shtml">Los parajes de la literatura en la posmodernidad</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 149</span>
+      							<a href="single.shtml" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+                  <div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+      							<h4 class="box__title"><a href="single.shtml">Salir del silencio</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 149</span>
+      							<a href="single.shtml" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+                  <div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+      							<h4 class="box__title"><a href="single.shtml">Más que un libro común</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 149</span>
+      							<a href="single.shtml" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+      			</div>
+            </div>
+
+            <div class="horizon__archivo">
+               <span class="numero-revista">148</span>
+               <h3 class="horizon__subtitle">Volver a Confiar</h3>
+               <div class="horizon__bajada">
+                  <p>Bajada del tema dossier, recomendación de 350 caracteres. Morbi quis neque aliquam, rhoncus sapien et, pulvinar dui. Suspendisse at lacus risus. In convallis risus scelerisquet malesua dignissim ullamcorper. Mauris sed ante dui. Interdum et malesuada fames acca. In convallis risus scelerisque dignissim ullamcorper. Mauris sed antesd.</p>
+               </div>
+
+               <div class="row">
+      				<div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+      							<h4 class="box__title"><a href="single.shtml">La trastienda del descontento</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 148</span>
+      							<a href="single.shtml" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+                  <div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+      							<h4 class="box__title"><a href="single.shtml">El círculo de la confianza</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 148</span>
+      							<a href="single.shtml" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+      				<div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+      							<h4 class="box__title"><a href="single.shtml">Mirarnos a los ojos</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 148</span>
+      							<a href="single.shtml" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+      				<div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+      							<h4 class="box__title"><a href="">El sueños compartido</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 148</span>
+      							<a href="single.shtml" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+      				<div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+      							<h4 class="box__title"><a href="single.shtml">El llamado del futuro</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 148</span>
+      							<a href="single.shtml" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+      			</div>
+            </div>
+
+            <div class="horizon__archivo">
+               <span class="numero-revista">147</span>
+               <h3 class="horizon__subtitle">Chile: Tierra del mar</h3>
+               <div class="horizon__bajada">
+                  <p>Bajada del tema dossier, recomendación de 350 caracteres. Morbi quis neque aliquam, rhoncus sapien et, pulvinar dui. Suspendisse at lacus risus. In convallis risus scelerisquet malesua dignissim ullamcorper. Mauris sed ante dui. Interdum et malesuada fames acca. In convallis risus scelerisque dignissim ullamcorper. Mauris sed antesd.</p>
+               </div>
+
+               <div class="row">
+      				<div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+      							<h4 class="box__title"><a href="single.shtml">Fragmento de Chile</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 147</span>
+      							<a href="single.shtml" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+      				<div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+      							<h4 class="box__title"><a href="single.shtml">El tesoro de una isla</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 147</span>
+      							<a href="single.shtml" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+      				<div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+      							<h4 class="box__title"><a href="">Las islas que hemos debido enfretar</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 147</span>
+      							<a href="single.shtml" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+      				<div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+      							<h4 class="box__title"><a href="single.shtml">Letras en medio del mar</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 147</span>
+      							<a href="single.shtml" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+                  <div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+      							<h4 class="box__title"><a href="single.shtml">En el nombre del padre</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 147</span>
+      							<a href="single.shtml" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+                  <div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+      							<h4 class="box__title"><a href="single.shtml">Isleños del pácifico</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 147</span>
+      							<a href="single.shtml" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+      			</div><!--.row-->
+            </div><!--.horizon-archivo-->
+         </div><!---.container--->
+
+         <!--#include virtual="_paginator.shtml" -->
+      </div><!--.container big-->
+   </section>
+
+   <!---Especiales--->
+	<!--#include virtual="_especiales.shtml" -->
+</main>
+<!--#include virtual="_footer.shtml" -->

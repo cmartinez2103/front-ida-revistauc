@@ -1,0 +1,85 @@
+<!-------->
+<!--Si estamos en un single el background horizon--newsletter es gris. clase: .bg-light-->
+<!-------->
+<section class="horizon--newsletter">
+	<div class="row">
+		<div class="wrapper gr-8 gr-12@large prefix-4 prefix-0@large">
+			<h2>Suscríbete a nuestro Newsletter</h2>
+			<div class="form-parent form-parent--newsletter" data-parent>
+				<form action="/wp-json/procesar/send_newsletter/" class="form-control__container" data-module="common-form" method="post" data-validation="generic_ajax">
+					<div class="form-control" data-error-message="Ingresa tu nombre para continuar">
+						<input type="text" placeholder="Ingresa tu correo electrónico" class="form-control__field" required>
+					</div>
+					<div class="form-control" data-error-message="Ingresa tu nombre para continuar">
+						<input class="button button--main" type="submit" value="Suscribirse" />
+					</div>
+				</form>
+				<!--Response-->
+				<div class="form-response exito" style="display:none">
+					<div class="form-response__respuesta">
+						<h2 class="form-response__title">¡Tu mensaje ha sido enviado con éxito!</h2>
+						<p class="form-response__excerpt">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<footer class="footer-bar">
+	<div class="container">
+		<div class="row">
+			<!--logo en mobile-->
+			<div class="gr-12@small gr-12@tablet showb@tablet flex-center" data-area-name="mobile-logofooter"></div>
+			<div class="gr-10 gr-12@large gr-12@tablet no-padding--vertical gutter@tablet prefix-1 prefix-0@large footer-bar__primary">
+				<ul class="footer-list inline">
+					<li class="menu-item"><a href="template-archivo-especial.shtml" title="title" class="footer-bar__link">Especial</a></li>
+					<li class="menu-item"><a href="template-portada-dossier.shtml" title="title" class="footer-bar__link">Dossier</a></li>
+					<li class="menu-item"><a href="template-portada-categorias.shtml" title="title" class="footer-bar__link">Internacional</a></li>
+					<li class="menu-item"><a href="template-portada-categorias.shtml" title="title" class="footer-bar__link">Sociedad</a></li>
+					<li class="menu-item"><a href="template-portada-categorias.shtml" title="title" class="footer-bar__link">Personajes</a></li>
+					<li class="menu-item"><a href="template-portada-categorias.shtml" title="title" class="footer-bar__link">Cultura</a></li>
+					<li class="menu-item"><a href="template-portada-categorias.shtml" title="title" class="footer-bar__link">Investigación</a></li>
+					<li class="menu-item"><a href="template-portada-categorias.shtml" title="title" class="footer-bar__link">Opinión</a></li>
+				</ul>
+			</div>
+			<!--logo en desktop-->
+			<div class="gr-2 gr-12@medium margin-bottom@medium hide@tablet" data-area-name="desktop-logofooter">
+				<figure class="footer-bar__brand" data-desktop-area="desktop-logofooter" data-mobile-area="mobile-logofooter" data-mutable="tablet-down">
+					<a href="#" title="Ir a "><img src="/dist/img/logos/puc-white.svg" alt="" class="elastic-img"></a>
+				</figure>
+			</div>
+
+			<div class="gr-3 gr-4@medium gr-12@tablet prefix-1 prefix-0@medium no-padding--vertical gutter@tablet footer-bar__secondary">
+				<ul class="footer-list opacity">
+					<li class="menu-item"><a href="#" title="title" class="footer-bar__link opacity">Universidades</a></li>
+					<li class="menu-item"><a href="#" title="title" class="footer-bar__link opacity">Facultades</a></li>
+					<li class="menu-item"><a href="#" title="title" class="footer-bar__link opacity">Organización</a></li>
+					<li class="menu-item"><a href="#" title="title" class="footer-bar__link opacity">Biblioteca</a></li>
+					<li class="menu-item"><a href="#" title="title" class="footer-bar__link opacity">Donaciones</a></li>
+					<li class="menu-item"><a href="#" title="title" class="footer-bar__link opacity">Mi Portal UC</a></li>
+					<li class="menu-item"><a href="#" title="title" class="footer-bar__link opacity">Correo</a></li>
+				</ul>
+
+			</div>
+			<div class="gr-3 gr-4@medium gr-6@tablet no-padding--vertical gutter@tablet">
+				<ul class="footer-list opacity">
+					<li class="menu-item"><a href="quienes-somos.shtml" title="title" class="footer-bar__link opacity">Quienes somos</a></li>
+					<li class="menu-item"><a href="archivo.shtml" title="title" class="footer-bar__link opacity">Archivo</a></li>
+					<li class="menu-item"><a href="contacto.shtml" title="title" class="footer-bar__link opacity">Contacto</a></li>
+				</ul>
+			</div>
+			<div class="gr-3 gr-4@medium gr-6@tablet no-padding--vertical gutter@tablet">
+				<ul class="footer-list opacity">
+					<li class="menu-item"><a href="#" title="title" class="footer-bar__link opacity">Enlace UC 1</a></li>
+					<li class="menu-item"><a href="#" title="title" class="footer-bar__link opacity">Enlace UC 2</a></li>
+					<li class="menu-item"><a href="#" title="title" class="footer-bar__link opacity">Enlace UC 3</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</footer>
+<!--#include virtual="_indice-sitio.shtml" -->
+<script src="dist/js/main.min.js"></script>
+</body>
+
+</html>

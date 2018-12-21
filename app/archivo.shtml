@@ -1,0 +1,94 @@
+<!--#include virtual="_header.shtml" -->
+<main>
+   <!--#include virtual="_breadcrumb.shtml" -->
+   <section class="horizon--inner">
+		<div class="container">
+         <div class="row">
+            <div class="gr-12 gr-12@small">
+               <div class="horizon__intro search">
+      				<h2 class="horizon__title-page">Archivo</h2>
+                  <form action="/" method="get">
+      					<div class="form-control__search gr-6 gr-12@tablet">
+      						<input type="search" class="form-control__field" name="s" placeholder="Escribe aquí lo que buscas" required>
+      						<button class="button icon-elem icon-elem--search" type="submit"></button>
+      					</div>
+      				</form>
+      			</div>
+               <!-- VAN TODOS LOS POST , del más nuevo al antiguo -->
+               <article class="box box--search box--horizontal">
+                  <figure class="box__figure">
+                     <a href="single.shtml"><a href="single.shtml"><img src="http://unsplash.it/566/318/" class="cover-img" alt="title" /></a></a>
+                     <div class="box__meta">
+                        <span class="box__meta--item color-meta-verde"><a href="template-portada-categorias.shtml">Política</a></span>
+                     </div>
+                  </figure>
+                  <div class="box__body">
+                     <h4 class="box__title"><a href="single.shtml">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</a></h4>
+                     <div class="box__excerpt">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu…</p>
+                     </div>
+                  </div>
+               </article>
+               <article class="box box--search box--horizontal">
+                  <figure class="box__figure">
+                     <a href="single.shtml"><img src="http://unsplash.it/566/318/" class="cover-img" alt="title" /></a>
+                     <div class="box__meta">
+                        <span class="box__meta--item color-meta-rojo"><a href="template-portada-categorias.shtml">Política</a></span>
+                     </div>
+                  </figure>
+                  <div class="box__body">
+                     <h4 class="box__title"><a href="single.shtml">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</a></h4>
+                     <div class="box__excerpt">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu…</p>
+                     </div>
+                  </div>
+               </article>
+               <article class="box box--search box--horizontal">
+                  <figure class="box__figure">
+                     <a href="single.shtml"><img src="http://unsplash.it/566/318/" class="cover-img" alt="title" /></a>
+                     <div class="box__meta">
+                        <span class="box__meta--item color-meta-verde"><a href="template-portada-categorias.shtml">Política</a></span>
+                     </div>
+                  </figure>
+                  <div class="box__body">
+                     <h4 class="box__title"><a href="single.shtml">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</a></h4>
+                     <div class="box__excerpt">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu…</p>
+                     </div>
+                  </div>
+               </article>
+               <article class="box box--search box--horizontal">
+                  <figure class="box__figure">
+                     <a href="single.shtml"><img src="http://unsplash.it/566/318/" class="cover-img" alt="title" /></a>
+                     <div class="box__meta">
+                        <span class="box__meta--item color-meta-rosa"><a href="template-portada-categorias.shtml">Política</a></span>
+                     </div>
+                  </figure>
+                  <div class="box__body">
+                     <h4 class="box__title"><a href="single.shtml">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</a></h4>
+                     <div class="box__excerpt">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu…</p>
+                     </div>
+                  </div>
+               </article>
+               <article class="box box--search box--horizontal">
+                  <figure class="box__figure">
+                     <a href="single.shtml"><img src="http://unsplash.it/566/318/" class="cover-img" alt="title" /></a>
+                     <div class="box__meta">
+                        <span class="box__meta--item color-meta-turquesa"><a href="template-portada-categorias.shtml">Política</a></span>
+                     </div>
+                  </figure>
+                  <div class="box__body">
+                     <h4 class="box__title"><a href="single.shtml">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</a></h4>
+                     <div class="box__excerpt">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu…</p>
+                     </div>
+                  </div>
+               </article>
+            </div>
+         </div>
+         <!--#include virtual="_paginator.shtml" -->
+      </div>
+   </section>
+</main>
+<!--#include virtual="_footer.shtml" -->

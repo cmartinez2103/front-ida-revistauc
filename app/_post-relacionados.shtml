@@ -1,0 +1,64 @@
+<section class="bg-light horizon--relation">
+   <div class="container">
+      <h2 class="flex-center font-bold font-section">Otros artículos del Dossier</h2>
+      <div class="row">
+         <div class="gr-4 gr-6@tablet gr-12@phablet">
+            <article class="box box--post">
+               <figure class="box__figure">
+                  <a href="single.shtml"><img src="http://unsplash.it/347/243/" class="cover-img" alt="title" /></a>
+                  <div class="box__meta">
+                     <span class="box__meta--item color-meta-azul"><a href="">Investigación</a></span>
+                  </div>
+               </figure>
+               <div class="box__body">
+                  <h4 class="box__title"><a href="">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</a></h4>
+                  <span class="box__data">Por Miguel Laborde Duronea</span>
+                  <div class="box__excerpt">
+                     <p>El premio Pritzker que Alejandro Aravena recibió en la sede de las Naciones Unidas va más allá de la Arquitectura.
+                        Este celebra una estrategia que explora el arte de actuar con recursos escasos. Arte que la oficina que fundó y ahora dirige</p>
+                  </div>
+                  <a href="" class="button button--main">Ver artículo</a>
+               </div>
+            </article>
+         </div>
+         <div class="gr-4 gr-6@tablet gr-12@phablet">
+            <article class="box box--post">
+               <figure class="box__figure">
+                  <a href="single.shtml"><img src="http://unsplash.it/347/243/" class="cover-img" alt="title" /></a>
+                  <div class="box__meta">
+                     <span class="box__meta--item color-meta-verde"><a href="">Miramundo</a></span>
+                  </div>
+               </figure>
+               <div class="box__body">
+                  <h4 class="box__title"><a href="">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</a></h4>
+                  <span class="box__data">Por Miguel Laborde Duronea</span>
+                  <div class="box__excerpt">
+                     <p>El premio Pritzker que Alejandro Aravena recibió en la sede de las Naciones Unidas va más allá de la Arquitectura.
+                        Este celebra una estrategia que explora el arte de actuar con recursos escasos. Arte que la oficina que fundó y ahora dirige</p>
+                  </div>
+                  <a href="" class="button button--main">Ver artículo</a>
+               </div>
+            </article>
+         </div>
+         <div class="gr-4 gr-6@tablet gr-12@phablet">
+            <article class="box box--post color-cat-turquesa">
+               <figure class="box__figure">
+                  <a href="single.shtml"><img src="http://unsplash.it/347/243/" class="cover-img" alt="title" /></a>
+                  <div class="box__meta">
+                     <span class="box__meta--item color-meta-turquesa"><a href="">Política</a></span>
+                  </div>
+               </figure>
+               <div class="box__body">
+                  <h4 class="box__title"><a href="">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</a></h4>
+                  <span class="box__data">Por Miguel Laborde Duronea</span>
+                  <div class="box__excerpt">
+                     <p>El premio Pritzker que Alejandro Aravena recibió en la sede de las Naciones Unidas va más allá de la Arquitectura.
+                        Este celebra una estrategia que explora el arte de actuar con recursos escasos. Arte que la oficina que fundó y ahora dirige</p>
+                  </div>
+                  <a href="" class="button button--main">Ver artículo</a>
+               </div>
+            </article>
+         </div>
+      </div>
+   </div>
+</section>

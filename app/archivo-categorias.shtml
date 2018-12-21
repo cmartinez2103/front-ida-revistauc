@@ -1,0 +1,162 @@
+<!--#include virtual="_header.shtml" -->
+<main>
+   <!--#include virtual="_breadcrumb.shtml" -->
+   <section class="horizon container--big">
+      <img src="http://unsplash.it/1280/360/" alt="" class="cover-img hide@tablet">
+      <img src="http://unsplash.it/640/360/" alt="" class="cover-img showb@tablet">
+      <div class="header-portada header-portada__category">
+         <div class="container">
+            <div class="header-portada__body">
+
+               <h1 class="font-big font-italic">Archivo Cultura</h1>
+
+            </div>
+         </div>
+      </div>
+   </section>
+
+   <section class="horizon--inner">
+		<div class="container--big">
+         <div class="container">
+            <!--archivo-->
+            <div class="horizon__archivo">
+               <div class="row">
+      				<div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+                           <div class="box__meta">
+                              <span class="box__meta--item color-meta-verde"><a href="template-portada-categorias.shtml">Reseña</a></span>
+                           </div>
+      							<h4 class="box__title"><a href="single.shtml">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 137</span>
+      							<a href="" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+      				<div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+                           <div class="box__meta">
+                              <span class="box__meta--item color-meta-verde"><a href="template-portada-categorias.shtml">Arte fresco</a></span>
+                           </div>
+      							<h4 class="box__title"><a href="single.shtml">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 149</span>
+      							<a href="" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+      				<div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+                           <div class="box__meta">
+                              <span class="box__meta--item color-meta-verde"><a href="template-portada-categorias.shtml">Libro</a></span>
+                           </div>
+      							<h4 class="box__title"><a href="">Consectetur adipisicing elit, sed do eiusmod</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 151</span>
+      							<a href="" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+      				<div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+                           <div class="box__meta">
+                              <span class="box__meta--item color-meta-verde"><a href="template-portada-categorias.shtml">Trastienda</a></span>
+                           </div>
+      							<h4 class="box__title"><a href="single.shtml">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 138</span>
+      							<a href="" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+                  <div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+                           <div class="box__meta">
+                              <span class="box__meta--item color-meta-verde"><a href="template-portada-categorias.shtml">Libro</a></span>
+                           </div>
+      							<h4 class="box__title"><a href="">Consectetur adipisicing elit, sed do eiusmod</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 151</span>
+      							<a href="" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+      				<div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+                           <div class="box__meta">
+                              <span class="box__meta--item color-meta-verde"><a href="template-portada-categorias.shtml">Trastienda</a></span>
+                           </div>
+      							<h4 class="box__title"><a href="single.shtml">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 138</span>
+      							<a href="" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+                  <div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+                           <div class="box__meta">
+                              <span class="box__meta--item color-meta-verde"><a href="template-portada-categorias.shtml">Libro</a></span>
+                           </div>
+      							<h4 class="box__title"><a href="">Consectetur adipisicing elit, sed do eiusmod</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 151</span>
+      							<a href="" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+      				<div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+                           <div class="box__meta">
+                              <span class="box__meta--item color-meta-verde"><a href="template-portada-categorias.shtml">Trastienda</a></span>
+                           </div>
+      							<h4 class="box__title"><a href="single.shtml">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 138</span>
+      							<a href="" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+                  <div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+                           <div class="box__meta">
+                              <span class="box__meta--item color-meta-verde"><a href="template-portada-categorias.shtml">Libro</a></span>
+                           </div>
+      							<h4 class="box__title"><a href="">Consectetur adipisicing elit, sed do eiusmod</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 151</span>
+      							<a href="" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+      				<div class="gr-4 gr-6@tablet gr-12@phablet prefix-1 prefix-0@large">
+      					<article class="box box--simple">
+      						<div class="box__body">
+                           <div class="box__meta">
+                              <span class="box__meta--item color-meta-verde"><a href="template-portada-categorias.shtml">Trastienda</a></span>
+                           </div>
+      							<h4 class="box__title"><a href="single.shtml">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</a></h4>
+      							<span class="box__data">Por Miguel Laborde Duronea</span>
+      							<span class="box__data">Resvista Nº 138</span>
+      							<a href="" class="button button--main">Ver artículo</a>
+      						</div>
+      					</article>
+      				</div>
+      			</div>
+            </div>
+         </div>
+
+         <!--#include virtual="_paginator.shtml" -->
+      </div><!--.container big-->
+   </section>
+</main>
+<!--#include virtual="_footer.shtml" -->

@@ -1,0 +1,56 @@
+<div class="navegacion-sitio">
+   <br>
+   <hr>
+   <br>
+   <div class="container">
+      <div class="row">
+         <div class="gr-2 gr-12@medium margin-bottom@medium">
+            <h4>Inicio</h4>
+            <a href="index.shtml">Inicio</a>
+         </div>
+         <div class="gr-2 gr-12@medium margin-bottom@medium">
+            <h4>Archivos</h4>
+            <a href="archivo-categorias.shtml">Archivo Categorias general</a>
+            <a href="archivo-dossier.shtml">Archivo Dossier</a>
+            <a href="template-archivo-especial.shtml">Archivo Especial</a>
+         </div>
+         <div class="gr-2 gr-12@medium margin-bottom@medium">
+            <h4>Portadas</h4>
+            <a href="template-portada-categorias.shtml">* Portada Categorias general</a>
+            <a href="template-portada-dossier.shtml">* Portada Dossier</a>
+            <a href="template-portada-opinion.shtml">Portada Opinión</a>
+            <a href="template-portada-tag.shtml">* Portada Tag</a>
+            <a href="template-portada-temas.shtml">* Portada Temas</a>
+            <a href="template-portada-especial.shtml">* Portada Especial</a>
+         </div>
+         <div class="gr-2 gr-12@medium margin-bottom@medium">
+            <h4>Single</h4>
+            <a href="single-dossier.shtml">* Single Dossier</a>
+            <a href="single.shtml">* Single</a>
+            <a href="single-libro.shtml">Single libro</a>
+            <a href="single-trastienda.shtml">Single Trastienda</a>
+         </div>
+         <div class="gr-2 gr-12@medium margin-bottom@medium">
+            <h4>Single colores</h4>
+            <a href="single-dossier.shtml">Single Dossier con color</a>
+            <a href="single-rosa.shtml">Single rosa</a>
+            <a href="single-verde.shtml">Single verde</a>
+            <a href="single-naranjo.shtml">Single naranjo</a>
+            <a href="single-turquesa.shtml">Single turquesa</a>
+            <a href="single-azul.shtml">Single azul</a>
+            <a href="single-amarillo.shtml">Single amarillo</a>
+            <a href="single-rojo.shtml">Single rojo</a>
+         </div>
+         <div class="gr-2 gr-12@medium margin-bottom@medium">
+            <h4>Páginas</h4>
+            <a href="page.shtml">Página predeterminada</a>
+            <a href="404.shtml">404</a>
+            <a href="search.shtml">Search</a>
+            <a href="contacto.shtml">Contacto</a>
+            <a href="quienes-somos.shtml">Quienes Somos</a>
+            <a href="archivo.shtml">Archivo</a>
+         </div>
+      </div>
+   </div>
+   <br>
+</div>
